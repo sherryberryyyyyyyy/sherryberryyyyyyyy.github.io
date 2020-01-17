@@ -1,0 +1,221 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sherryberryyyyyyyy.com" resolutions="1x" timestamp="1579251250206">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="illustration.css" crc="107002799" ref="illustration"/>
+    <file name="animation.css" crc="4020662430" ref="animation"/>
+    <file name="works.css" crc="23438663" ref="works"/>
+    <file name="index.css" crc="3970858197" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="chicken-animation-final.mp4" crc="153334112" seo="true" mt="1578196444000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="illustration:index:animation:works"/>
+    <file name="museutils.js" crc="3803043152" ref="illustration:index:animation:works"/>
+    <file name="whatinput.js" crc="86476730" ref="illustration:index:animation:works"/>
+    <file name="museconfig.js" crc="4153641093" ref="illustration:index:animation:works"/>
+    <file name="jquery.watch.js" crc="99325471" ref="illustration:index:animation:works"/>
+    <file name="webpro.js" crc="242022427" ref="illustration:works"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="illustration:works"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="illustration:works"/>
+    <file name="touchswipe.js" crc="4066113679" ref="illustration:works"/>
+    <file name="require.js" crc="4157109226" ref="illustration:index:animation:works"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4254115183" ref="illustration"/>
+    <file name="inshot_20190616_012728787-crop-u1494.jpg" crc="3982488493" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="imag0591 (1)-crop-u1848.jpg" crc="145201614" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="img_20190306_145932-crop-u2138.jpg" crc="53421850" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="img_20190306_145935-crop-u2215.jpg" crc="3954214293" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="img_20190306_145941-crop-u2235.jpg" crc="521875926" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="imag0584 (1)-crop-u2264.jpg" crc="167402547" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="imag0510-crop-u2299.jpg" crc="402600776" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="imag0550 (1)-crop-u2319.jpg" crc="3930652768" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="imag0582 (1)-crop-u2456.jpg" crc="302191784" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="screenshot_2019-03-13-19-32-34-007_cominstagramandroid-crop-u2400.jpg" crc="254703125" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="imag0725-crop-u2484.jpg" crc="3787987875" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="imag0658 (1) (1)-crop-u2373.jpg" crc="3815341211" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="inshot_20190616_012728787-crop-u1513.jpg" crc="525659782" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="illustration:works"/>
+    <file name="imag0591 (1)-crop-u1842.jpg" crc="3874441770" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="img_20190306_145932.jpg" crc="4228592122" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="img_20190306_145935.jpg" crc="136224473" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="img_20190306_145941.jpg" crc="3939679703" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="imag0584 (1).jpg" crc="315406756" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="imag0510.jpg" crc="3770749728" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="imag0550 (1).jpg" crc="138960853" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="imag0582 (1).jpg" crc="230970952" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="screenshot_2019-03-13-19-32-34-007_cominstagramandroid.jpg" crc="377810651" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="imag0725.jpg" crc="4135098043" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="imag0658 (1) (1).jpg" crc="4160778969" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="illustration:works"/>
+    <file name="74488-instagram-icons-media-medtempnow-computer-social-logo.png" crc="4042473732" seo="true" ref="illustration:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="55.png" crc="4133781657" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="444.png" crc="390899250" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="inshot_20190616_012728787.png" crc="3870357510" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="47584595_329156491017708_7557689354739515392_n.jpg" crc="4182241791" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="email-icon-in-flat-style-vector-22681228.jpg" crc="463672488" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="background4.jpg" crc="258001919" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="susses chicken 4head_10002.jpg" crc="483812683" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="start fly3_10004.jpg" crc="3870916948" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="sad unbelievable_10002.jpg" crc="4180689449" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="run 8 fly_10121.jpg" crc="4122423025" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="first chicken_10002.jpg" crc="429061361" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="88.png" crc="3950370788" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="554.jpg" crc="231900097" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="final model key04_10220.jpg" crc="11035736" seo="true" ref="animation">
+      <caption webpage="animation" alt=""/>
+    </file>
+    <file name="不靈光載體_190615_0009.jpg" crc="4222215129" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="5.png" crc="3920153722" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="未命名-1.png" crc="371871709" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="223.png" crc="3856641195" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="inshot_20190615_213505134.jpg" crc="4068783822" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="inshot_20190615_211922340.jpg" crc="4012269420" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="20181113_190615_0197.jpg" crc="4158045169" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="54.png" crc="435408114" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="1556204379052 - 複製.jpg" crc="341059322" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="img_20190425_184709_020 - 複製.jpg" crc="407268698" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="img_20190425_162423 - 複製.jpg" crc="378075033" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="425 靈光載體_190615_0050.jpg" crc="4013817215" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="img_20190425_184709_023.jpg" crc="268025670" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="imag0638 (1).jpg" crc="450520962" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="22.jpg" crc="18328463" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="inshot_20190615_210523027.jpg" crc="430107212" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="imag0633 (1).jpg" crc="26970125" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="imag0634 (1).jpg" crc="4090538228" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="2.jpg" crc="4162006422" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="425 靈光載體_190615_0048_0-crop-u4885.jpg" crc="4070820907" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="425 靈光載體_190615_0049-crop-u4905.jpg" crc="129379620" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="不靈光載體_190615_0012.jpg" crc="501782707" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="img_20190425_165911 - 複製-crop-u4979.jpg" crc="3848929558" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+  </folder>
+  <file name="illustration.html" crc="388683806" seo="true" mt="1579251022370" redirect="true"/>
+  <file name="index.html" crc="109930545" seo="true" mt="1579249908037" redirect="true"/>
+  <file name="animation.html" crc="211461961" seo="true" mt="1579250890199" redirect="true"/>
+  <file name="works.html" crc="3917762913" seo="true" mt="1579251220402" redirect="true"/>
+</manifest>
